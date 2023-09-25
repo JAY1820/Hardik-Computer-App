@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this, ProductActivity.class);
                 intent.putExtra("product_name", "Monitor");
                 startActivity(intent);
+                finish();
             }
         });
         crKeyboard.setOnClickListener(new View.OnClickListener() {
@@ -38,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this, ProductActivity.class);
                 intent.putExtra("product_name", "Keyboard");
                 startActivity(intent);
+                finish();
             }
         });
         crLaptop.setOnClickListener(new View.OnClickListener() {
@@ -46,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this, ProductActivity.class);
                 intent.putExtra("product_name", "Laptop");
                 startActivity(intent);
+                finish();
             }
         });
         crMouse.setOnClickListener(new View.OnClickListener() {
@@ -54,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this, ProductActivity.class);
                 intent.putExtra("product_name", "Mouse");
                 startActivity(intent);
+                finish();
             }
         });
     }

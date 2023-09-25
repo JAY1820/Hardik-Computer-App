@@ -1,5 +1,6 @@
 package com.example.myapplication;
 
+import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.media.Image;
@@ -50,6 +51,7 @@ public class RvProductDetailAdapter extends RecyclerView.Adapter<RvProductDetail
                     intent.putExtra("productprice", model.getPrice());
                     intent.putExtra("productdescription", model.getDescription());
                     context.startActivity(intent);
+                    ((Activity)context).finish();
                 }
             });
     }
