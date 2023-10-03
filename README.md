@@ -7,30 +7,26 @@ Welcome to the Hardik Computers Android App repository. This mobile application 
 1. [About](#about)
 2. [Features](#features)
 3. [Contributing](#contributing)
+4. [GitHub Repository](#github-repository)
 
 ## About
 
 The Hardik Computers Android App is designed to provide a user-friendly and convenient shopping experience for computer-related products. Whether you're looking for a new laptop, accessories, or computer components, this app has you covered. Our goal is to make shopping for tech products simple and accessible.
 
+Please note that while the app already has a variety of features, some features are not available yet. We welcome your contributions to enhance and add these missing features.
+
 ## Features
 
-The Hardik Computers app offers a range of features to enhance your shopping experience:
-
-- **Product Categories:** Easily browse through categories of products, including laptops, desktops, accessories, and more.
-
-- **Product Details:** Get detailed information about each product, including specifications, pricing, and availability.
+The Hardik Computers app aims to add the following functionality:
 
 - **Search Functionality:** Use the search bar to find specific products quickly.
-
 - **Shopping Cart:** Add products to your cart for a seamless shopping experience.
-
 - **User Accounts:** Create an account to manage your orders, save your favorite products, and more.
-
 - **Order Tracking:** Keep track of your order status and delivery details.
-
 - **Payment Options:** We offer secure payment methods for your convenience.
-
 - **Customer Support:** Reach out to our support team for any questions or assistance.
+
+Please note that while the app already has a variety of features, some features are not available yet. We welcome your contributions to enhance and add these missing features.
 
 ## Contributing
 
